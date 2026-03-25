@@ -1,0 +1,51 @@
+name,email,password,phoneno,address,dob,country,state,city
+Vidya Iyer,vidya.iyer11@example.com,pass1198,9891544684,"59, Main Road, Bangalore",1999-08-20,India,Karnataka,Bangalore
+Chitra Joshi,chitra.joshi90@example.com,pass8021,9586870654,"32, Main Road, Pune",2003-06-04,India,Maharashtra,Pune
+Bhavna Joshi,bhavna.joshi15@example.com,pass3599,9826385770,"25, Main Road, Chennai",2002-07-19,India,Tamil Nadu,Chennai
+Jyoti Sharma,jyoti.sharma6@example.com,pass7330,9648054813,"95, Main Road, Pune",1985-08-22,India,Maharashtra,Pune
+Deepa Gupta,deepa.gupta37@example.com,pass6688,9456275274,"35, Main Road, New Delhi",1980-05-26,India,Delhi,New Delhi
+Deepa Iyer,deepa.iyer8@example.com,pass4187,9859789494,"8, Main Road, Chennai",1997-05-13,India,Tamil Nadu,Chennai
+Deepa Singh,deepa.singh83@example.com,pass7790,9158583409,"41, Main Road, Nagpur",2005-10-31,India,Maharashtra,Nagpur
+Deepa Patel,deepa.patel51@example.com,pass6732,9945870121,"96, Main Road, New Delhi",2000-11-06,India,Delhi,New Delhi
+Sneha Rao,sneha.rao15@example.com,pass6543,9558683955,"65, Main Road, Chennai",1983-10-06,India,Tamil Nadu,Chennai
+Deepa Patel,deepa.patel40@example.com,pass1349,9955440418,"83, Main Road, Coimbatore",1994-05-19,India,Tamil Nadu,Coimbatore
+Megha Malhotra,megha.malhotra49@example.com,pass7725,9332131281,"7, Main Road, Mumbai",1992-01-02,India,Maharashtra,Mumbai
+Aarti Malhotra,aarti.malhotra38@example.com,pass2754,9630005643,"7, Main Road, Dwarka",1981-05-06,India,Delhi,Dwarka
+Kavya Patel,kavya.patel43@example.com,pass5548,9211656387,"92, Main Road, Warangal",1986-11-15,India,Telangana,Warangal
+Falguni Reddy,falguni.reddy2@example.com,pass4316,9717917734,"32, Main Road, Mysore",2000-07-04,India,Karnataka,Mysore
+Gauri Das,gauri.das26@example.com,pass8881,9809015016,"64, Main Road, Mumbai",2003-08-19,India,Maharashtra,Mumbai
+Hina Rao,hina.rao60@example.com,pass5715,9652244177,"43, Main Road, Mumbai",1997-08-18,India,Maharashtra,Mumbai
+Bhavna Sharma,bhavna.sharma97@example.com,pass5817,9565256954,"27, Main Road, Chennai",1991-12-18,India,Tamil Nadu,Chennai
+Lata Patel,lata.patel58@example.com,pass9926,9782831922,"87, Main Road, Mumbai",1996-06-10,India,Maharashtra,Mumbai
+Bhavna Desai,bhavna.desai43@example.com,pass4821,9145698129,"53, Main Road, Mysore",1991-05-20,India,Karnataka,Mysore
+Kavya Rao,kavya.rao91@example.com,pass4508,9661516531,"95, Main Road, Mysore",1982-07-18,India,Karnataka,Mysore
+Falguni Das,falguni.das66@example.com,pass1627,9690689177,"82, Main Road, Pune",1991-04-27,India,Maharashtra,Pune
+Urvi Malhotra,urvi.malhotra64@example.com,pass4059,9527174278,"55, Main Road, Dwarka",1997-12-09,India,Delhi,Dwarka
+Kriti Iyer,kriti.iyer98@example.com,pass5475,9341062621,"11, Main Road, Mumbai",1997-11-19,India,Maharashtra,Mumbai
+Neha Verma,neha.verma70@example.com,pass7984,9299267904,"19, Main Road, Coimbatore",1999-07-13,India,Tamil Nadu,Coimbatore
+Megha Bose,megha.bose49@example.com,pass6246,9875366612,"59, Main Road, Dwarka",1998-11-10,India,Delhi,Dwarka
+Jyoti Malhotra,jyoti.malhotra17@example.com,pass5885,9185606389,"45, Main Road, Dwarka",1992-04-15,India,Delhi,Dwarka
+Isha Kumar,isha.kumar15@example.com,pass8854,9575280214,"54, Main Road, Chennai",2003-04-03,India,Tamil Nadu,Chennai
+Neha Singh,neha.singh25@example.com,pass7462,9864927050,"77, Main Road, Chennai",1992-02-29,India,Tamil Nadu,Chennai
+Isha Gupta,isha.gupta23@example.com,pass9643,9466520581,"60, Main Road, Coimbatore",1980-02-28,India,Tamil Nadu,Coimbatore
+Gauri Reddy,gauri.reddy51@example.com,pass2990,9176393159,"24, Main Road, New Delhi",1988-06-22,India,Delhi,New Delhi
+Urvi Singh,urvi.singh64@example.com,pass7420,9312223983,"8, Main Road, Pune",2002-02-11,India,Maharashtra,Pune
+Isha Reddy,isha.reddy54@example.com,pass1722,9175888335,"77, Main Road, Chennai",1998-07-02,India,Tamil Nadu,Chennai
+Chitra Singh,chitra.singh31@example.com,pass8594,9211974413,"58, Main Road, Surat",1985-03-22,India,Gujarat,Surat
+Diya Bose,diya.bose77@example.com,pass7451,9570135577,"34, Main Road, Chennai",1982-06-08,India,Tamil Nadu,Chennai
+Megha Joshi,megha.joshi5@example.com,pass9724,9565548997,"89, Main Road, Hyderabad",1992-12-19,India,Telangana,Hyderabad
+Anjali Sharma,anjali.sharma8@example.com,pass4305,9318594269,"20, Main Road, Dwarka",1987-03-16,India,Delhi,Dwarka
+Diya Das,diya.das54@example.com,pass8868,9464400737,"95, Main Road, Mangalore",1994-08-04,India,Karnataka,Mangalore
+Aarti Gupta,aarti.gupta43@example.com,pass9707,9752847699,"3, Main Road, New Delhi",1997-01-04,India,Delhi,New Delhi
+Pooja Malhotra,pooja.malhotra66@example.com,pass1066,9647057673,"66, Main Road, Mysore",1999-05-05,India,Karnataka,Mysore
+Deepa Patel,deepa.patel85@example.com,pass4649,9925183203,"52, Main Road, Pune",1993-11-21,India,Maharashtra,Pune
+Tanvi Reddy,tanvi.reddy56@example.com,pass5751,9883820273,"83, Main Road, Bangalore",1992-02-22,India,Karnataka,Bangalore
+Aditi Jain,aditi.jain29@example.com,pass2535,9580600644,"73, Main Road, Mysore",1992-07-18,India,Karnataka,Mysore
+Chitra Reddy,chitra.reddy8@example.com,pass4236,9415319517,"17, Main Road, Surat",1997-06-24,India,Gujarat,Surat
+Pooja Gupta,pooja.gupta65@example.com,pass9916,9593028503,"91, Main Road, Ahmedabad",1985-05-17,India,Gujarat,Ahmedabad
+Chitra Iyer,chitra.iyer88@example.com,pass1502,9731627588,"75, Main Road, Ahmedabad",2000-08-09,India,Gujarat,Ahmedabad
+Kavya Gupta,kavya.gupta65@example.com,pass8282,9341311150,"4, Main Road, Chennai",1988-02-08,India,Tamil Nadu,Chennai
+Megha Verma,megha.verma91@example.com,pass5102,9179203201,"83, Main Road, New Delhi",1997-03-21,India,Delhi,New Delhi
+Kavya Sharma,kavya.sharma43@example.com,pass6871,9458178926,"8, Main Road, Hyderabad",1982-07-09,India,Telangana,Hyderabad
+Vidya Malhotra,vidya.malhotra4@example.com,pass8809,9493747546,"62, Main Road, New Delhi",1983-12-06,India,Delhi,New Delhi
+Megha Patel,megha.patel83@example.com,pass8531,9819501800,"41, Main Road, Nagpur",1989-06-02,India,Maharashtra,Nagpur
